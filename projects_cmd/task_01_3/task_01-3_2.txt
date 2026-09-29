@@ -1,0 +1,10 @@
+PING google.com (142.250.154.102) 56(84) bytes of data.
+64 bytes from bt-in-f102.1e100.net (142.250.154.102): icmp_seq=1 ttl=255 time=136 ms
+64 bytes from bt-in-f102.1e100.net (142.250.154.102): icmp_seq=2 ttl=255 time=138 ms
+64 bytes from bt-in-f102.1e100.net (142.250.154.102): icmp_seq=3 ttl=255 time=138 ms
+64 bytes from bt-in-f102.1e100.net (142.250.154.102): icmp_seq=4 ttl=255 time=138 ms
+64 bytes from bt-in-f102.1e100.net (142.250.154.102): icmp_seq=5 ttl=255 time=137 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 136.440/137.484/138.013/0.577 ms

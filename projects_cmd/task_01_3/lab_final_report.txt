@@ -1,0 +1,18 @@
+fedora
+GNU bash, version 5.3.0(1)-release (x86_64-redhat-linux-gnu)
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Linux fedora 7.2.4-100.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC Mon Sep  7 20:19:01 UTC 2026 x86_64 GNU/Linux
+kakish     76830  0.0  0.1 269436 35396 ?        S    12:32   0:01 /usr/bin/python3 /usr/bin/wsdd --no-host --discovery --listen /run/user/1000/gvfsd/wsdd
+fedora
+GNU bash, version 5.3.0(1)-release (x86_64-redhat-linux-gnu)
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Linux fedora 7.2.4-100.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC Mon Sep  7 20:19:01 UTC 2026 x86_64 GNU/Linux
+kakish     76830  0.0  0.1 269436 35396 ?        S    12:32   0:01 /usr/bin/python3 /usr/bin/wsdd --no-host --discovery --listen /run/user/1000/gvfsd/wsdd

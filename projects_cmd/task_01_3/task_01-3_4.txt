@@ -1,0 +1,3 @@
+20M	/home/kakish/Downloads/steam_latest.deb
+14M	/home/kakish/Downloads/Presentation 4.pptx
+11M	/home/kakish/Downloads/PowerPoint load assist.exe
