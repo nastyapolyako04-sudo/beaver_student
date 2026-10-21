@@ -1,0 +1,19 @@
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_student
+    ports:
+      - "5435:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: student
+      POSTGRES_DB: student_task
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - ./pgdata_student:/var/lib/postgresql/data/pgdata
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d student_task"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
